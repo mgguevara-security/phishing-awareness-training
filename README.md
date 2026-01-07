@@ -30,7 +30,7 @@ El análisis detallado por equipo permite identificar las áreas que representan
 
 \### Evidencias de Resultados
 
-!\[Tabla de resultados por equipo](foto4.png)
+!(foto4.png)
 
 !\[Métricas de éxito de la campaña](foto5.png)
 
@@ -65,4 +65,5 @@ Los datos de esta campaña son fundamentales para medir la resiliencia organizac
 \*\*Autor:\*\* Marcos Gastón Guevara  
 
 \*\*Proyecto:\*\* Simulación de Ciberseguridad - Mastercard (Forage)
+
 
